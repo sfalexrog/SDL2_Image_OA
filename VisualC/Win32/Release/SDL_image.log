@@ -1,0 +1,26 @@
+﻿Build started 04.12.2015 11:42:36.
+     1>Project "D:\coding\openapoc\dependencies\SDL2_Image\VisualC\SDL_image.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\coding\openapoc\\bin\Release\SDL2_image.dll" /NOLOGO SDL2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\coding\openapoc\\bin\Release\SDL2_image.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\coding\openapoc\\bin\Release\SDL2_image.lib" /MACHINE:X86 /SAFESEH /DLL Win32\Release\Version.res
+         Win32\Release\IMG.obj
+         Win32\Release\IMG_bmp.obj
+         Win32\Release\IMG_gif.obj
+         Win32\Release\IMG_jpg.obj
+         Win32\Release\IMG_lbm.obj
+         Win32\Release\IMG_pcx.obj
+         Win32\Release\IMG_png.obj
+         Win32\Release\IMG_pnm.obj
+         Win32\Release\IMG_tga.obj
+         Win32\Release\IMG_tif.obj
+         Win32\Release\IMG_webp.obj
+         Win32\Release\IMG_xcf.obj
+         Win32\Release\IMG_xpm.obj
+         Win32\Release\IMG_xv.obj
+         Win32\Release\IMG_xxx.obj
+            Creating library D:\coding\openapoc\\bin\Release\SDL2_image.lib and object D:\coding\openapoc\\bin\Release\SDL2_image.exp
+         SDL_image.vcxproj -> D:\coding\openapoc\\bin\Release\SDL2_image.dll
+     1>Done Building Project "D:\coding\openapoc\dependencies\SDL2_Image\VisualC\SDL_image.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00
